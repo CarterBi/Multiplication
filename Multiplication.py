@@ -1,4 +1,4 @@
-num = int(raw_input("What number do you want to go up to? Please do not exceed 30."))
+num = int(raw_input("What number do you want to go up to? \nPlease do not exceed 30."))
 
 num2 = range(1,num + 1)
 
